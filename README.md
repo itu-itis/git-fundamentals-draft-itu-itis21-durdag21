@@ -1,4 +1,4 @@
-# :wave: The Basics of GitHub MODIFIED BY MİRAÇ MERTHAN DURDAĞ 820210328
+# :wave: The Basics of GitHub MODIFIED BY MİRAÇ MERTHAN DURDAĞ 820210328 1/11/2021
 
 ## 🤓 Course overview and learning outcomes 
 
